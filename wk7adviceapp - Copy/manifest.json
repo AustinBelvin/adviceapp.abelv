@@ -1,0 +1,9 @@
+{
+    "name": "PWA Tutorial",
+    "short_name": "PWA",
+    "start_url": "starterpage.html",
+    "display": "standalone",
+    "background_color": "#5900b3",
+    "theme_color": "black",
+    "description": "This is a advice app."
+}
